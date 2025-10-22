@@ -1,0 +1,8 @@
+Flask==3.0.0
+Flask-Cors>3.0.5,<3.1.0
+matplotlib==3.9.0
+pandas==2.2.2
+PyQt5==5.15.11
+sip==6.8.6
+requests==2.31.0
+pyinstaller==6.10.0
