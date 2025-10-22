@@ -10,6 +10,7 @@ This project consists of a phishing detection software and a Chrome extension to
    - Go to `chrome://extensions/`
    - Enable Developer Mode.
    - Click "Load unpacked" and select the folder containing your extension files.
+3. Refer to `Outlines(Project-Structure).txt` file to execute.
 
 ## Usage
 - Run the executable to start the phishing detection software.
