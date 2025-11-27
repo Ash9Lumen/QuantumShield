@@ -3,9 +3,9 @@
 ## Overview
 This project consists of a phishing detection software and a Chrome extension to enhance online security. Dataset is being taken from a website that provides free dataset which is OpenPhish. 
 
-Official Website:
+- Official Website:
 https://openphish.com/index.html
-Here is the daily updating dataset link:
+- Here is the daily updating dataset link:
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
 
 ## Installation
